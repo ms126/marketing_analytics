@@ -19,9 +19,3 @@ This repository showcases my lab work and projects completed for the course, whe
 
 - **Conjoint Analysis**  
   Understanding customer trade-offs to inform product and pricing strategies.
-
-- **Natural Language Processing (NLP)**  
-  Processing text data to extract sentiment, topics, and marketing insights.
-
-- **Machine Learning Applications**  
-  Implementing supervised and unsupervised learning techniques to drive marketing decisions.
